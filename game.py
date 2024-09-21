@@ -16,13 +16,13 @@ user = int(input('''
 if random == user:
     print("tie")
 
-elif random == 1 & user == 2:
+elif random == 1 and user == 2:
     print("user wins")
 
-elif random == 2 & user == 3:
+elif random == 2 and user == 3:
     print("user wins")
 
-elif random == 3 & user == 1:
+elif random == 3 and user == 1:
     print("user wins")
 
 else:
