@@ -4,7 +4,7 @@ from random import randint
 from time import sleep
 
 random = randint(1,3)
-print(random) # For Debbuging Purpose 
+# print(random) # For Debbuging Purpose 
 user = int(input('''
 
 1-stone
